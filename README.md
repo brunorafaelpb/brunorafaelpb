@@ -1,9 +1,9 @@
 ### Olá eu sou a Bruno Dutra
 
-- QA Enginner
-- Cientista da computação
-- Pós-graduando em Testes Ágeis
-- Certificado CTFL e CTFL-AT
+- :office:  QA Enginner no CESAR
+- :computer:  Cientista da computação
+- :books:  Pós-graduando em Testes Ágeis
+- :page_facing_up:  Certificado CTFL e CTFL-AT
 -->
 
 <div style="display: inline_block"><br>
