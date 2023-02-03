@@ -1,10 +1,11 @@
-### Olá eu sou a Bruno Dutra
+### Hi! I'm Bruno Dutra
 
-- :office:  QA Enginner no CESAR
-- :computer:  Cientista da computação
-- :books:  Pós-graduando em Testes Ágeis
-- :page_facing_up:  Certificado CTFL e CTFL-AT
--->
+- :office:  QA Enginner at CESAR
+- :computer:  Computer scientist
+- :books:  Postgraduate in Agile Testing
+- :page_facing_up:  CTFL and CTFL-AT certified
+
+/n-->
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Bruno-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
