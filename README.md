@@ -2,7 +2,7 @@
 
 - :office:  QA Enginner at CESAR
 - :computer:  Computer scientist
-- :books:  Postgraduate in Agile Testing
+- :books:  Postgraduate in Automated Tests
 - :page_facing_up:  CTFL and CTFL-AT certified
 
 <div style="display: inline_block"><br>
